@@ -16,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/muhammad faizan asim](https://www.linkedin.com/in/sami-ullah-950a0b2b6/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sami-143" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/user9203rb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/user9203rb/" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/sami-ullah-950a0b2b6/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sami-143" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/samimalik_302/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/user9203rb/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sami-143&show_icons=true&locale=en" alt="Sami-143" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sami ullah&" alt="sami ullah" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sami-143&" alt="Sami-143" /></p>
