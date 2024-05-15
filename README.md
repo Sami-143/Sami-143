@@ -4,11 +4,9 @@
 <h1 align="center">Hello 👋, I'm Sami Ullah</h1>
 <h3 align="center">Crafting Intelligent Web Solutions: MERN Stack & ML Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sami Ullah&label=Profile%20views&color=0e75b6&style=flat" alt="Sami-143" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sami Ullah" alt="Sami-143" /></a> </p>
 
-- 🔭 I’m currently working on [developing a MERN stack application integrated with machine learning algorithms for predictive analytics in IT industry.](https://woix.vercel.app/)
+- 🔭 I’m currently working on [developing a MERN stack application integrated with machine learning algorithms for predictive analytics in IT industry.]
 
 - 👯 I’m looking to collaborate on **exciting projects that combine MERN stack development and machine learning to solve real-world problems.**
 
