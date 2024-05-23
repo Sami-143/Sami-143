@@ -2,7 +2,7 @@
 <br/>
 
 <h1 align="center">Hello 👋, I'm Sami Ullah</h1>
-<h3 align="center">Crafting Intelligent Web Solutions: MERN Stack & ML Engineer</h3>
+<h3 align="center">Crafting Intelligent Web Solutions: MERN Stack Developer</h3>
 
 
 
