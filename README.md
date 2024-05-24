@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on [developing a MERN stack application integrated with machine learning algorithms for predictive analytics in IT industry.]
+- 🔭 I’m currently working on [developing a MERN stack application integrated with machine learning and deep learning algorithms for predictive analytics in IT industry.]
 
 - 👯 I’m looking to collaborate on **exciting projects that combine MERN stack development and machine learning to solve real-world problems.**
 
