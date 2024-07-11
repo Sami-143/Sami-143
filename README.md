@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [developing a MERN stack application integrated with machine learning and deep learning algorithms for predictive analytics in IT industry.]
 
-- 👯 I’m looking to collaborate on **exciting projects that combine MERN stack development and machine learning to solve real-world problems.**
+- 👯 I’m looking to collaborate on **exciting projects that combine MERN stack development and machine learning to solve real-world problems and also learning about on Cloud Computing.**
 
 - 📫 How to reach me **You can contact me at samiullahglotar420@gmail.com to discuss potential collaborations or projects.**
 
