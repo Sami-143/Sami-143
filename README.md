@@ -134,9 +134,10 @@
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sami-143&show_icons=true&locale=en&cache_seconds=86400" alt="Sami-143 GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sami-143&show_icons=true&locale=en&include_all_commits=true&cache_seconds=86400" alt="Sami-143 GitHub stats" />
 </p>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sami-143&cache_seconds=86400" alt="Sami-143 streak stats" />
 </p>
+
