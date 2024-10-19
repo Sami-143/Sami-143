@@ -11,11 +11,11 @@
   <img src="https://komarev.com/ghpvc/?username=Sami-143&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
-- 🔭 I’m currently working on [developing a MERN stack application integrated with machine learning and deep learning algorithms for predictive analytics in IT industry.]
+- 🔭 I’m currently working on [developing a MERN stack application integrated with machine learning and deep learning algorithms for predictive analytics in the IT industry.]
 
 - 👯 I’m looking to collaborate on **exciting projects that combine MERN stack development and machine learning to solve real-world problems and also learning about Cloud Computing.**
 
-- 📫 How to reach me **You can contact me at samiullahglotar420@gmail.com to discuss potential collaborations or projects.**
+- 📫 How to reach me: **You can contact me at samiullahglotar420@gmail.com to discuss potential collaborations or projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,7 +30,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Add tools and languages icons here -->
-  <!-- Example icons: -->
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
@@ -38,6 +37,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
   <!-- Add the rest of your icons following the same pattern -->
+</p>
+
+<!-- GitHub Trophies Section -->
+<h3 align="left">🏆 GitHub Trophies:</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sami-143&theme=onestar&row=1&no-bg=true&no-frame=true" alt="Sami-143 trophies" />
 </p>
 
 <p>
