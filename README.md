@@ -104,6 +104,24 @@
   </a>
 </p>
 
+<h3 align="left">Technical Skills:</h3>
+<ul>
+  <li>**Programming Languages**: Python, C++, C#, JavaScript</li>
+  <li>**Web Development**: Node.js with Express.js, Django</li>
+  <li>**Libraries and Tools**: Numpy, Pandas, Matplotlib, Jupyter Notebook</li>
+  <li>**Database Management**: MongoDB, MySQL, SQL Server, SSIS for ETL operations</li>
+  <li>**Data Analysis and Visualization**: Pandas, Power BI</li>
+  <li>**Tools and Technologies**: Git, Linux</li>
+</ul>
+
+<!-- Key Projects Section -->
+<h3 align="left">Key Projects:</h3>
+<ul>
+  <li>**DOS Shell with Text Editor**: Developed in C++, showcasing proficiency in Data Structures (Trees and Linked Lists).</li>
+  <li>**Mini Excel Application**: A console-based project showcasing data manipulation and algorithm design with extensive Data Structures.</li>
+  <li>**E-commerce Website**: Developed a fully functional e-commerce platform using the MERN stack (MongoDB, Express.js, React, Node.js). Designed and implemented secure user authentication, integrated a payment gateway, and optimized performance for a seamless shopping experience. The platform also includes a custom-built admin panel for product and order management.</li>
+</ul>
+
 <!-- GitHub Trophies Section -->
 <h3 align="left">🏆 GitHub Trophies:</h3>
 <p align="center">
