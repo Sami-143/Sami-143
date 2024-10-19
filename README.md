@@ -1,7 +1,6 @@
 <!-- Profile Image at the Top -->
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/45daa54b-7d44-4c0c-9722-e6e1ceb623d5)
-" alt="Sami Ullah" width="300"/>
+  <img src="" alt="Sami Ullah" width="300"/>
 </p>
 
 <h1 align="center">Hello 👋, I'm Sami Ullah</h1>
