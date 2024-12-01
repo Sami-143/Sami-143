@@ -1,6 +1,6 @@
 <!-- Profile Image at the Top -->
 <p align="center">
-  <img src="profile.png" alt="Sami Ullah" width="1200" height="350"/> <!-- Reduced height -->
+  <img src="profile.png" alt="Sami Ullah" width="1200" height="370"/> <!-- Reduced height -->
 </p>
 
 <h1 align="center">Hello 👋, I'm Sami Ullah</h1>
