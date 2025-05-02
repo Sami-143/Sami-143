@@ -4,18 +4,19 @@
 </p>
 
 <h1 align="center">Hello 👋, I'm Sami Ullah</h1>
-<h3 align="center">Crafting Intelligent Web Solutions: MERN Stack Developer</h3>
+<h3 align="center">Full-Stack Developer | AI Enthusiast | Building Intelligent Digital Solutions</h3>
 
 <!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sami-143&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
-- 🔭 I’m currently working on developing a MERN stack application integrated with machine learning and deep learning algorithms for predictive analytics in the IT industry.
+- 🔭 I’m currently working on developing a **MERN stack application integrated with machine learning and deep learning algorithms** for predictive analytics in the IT industry.
 
-- 👯 I’m looking to collaborate on exciting projects that combine MERN stack development and machine learning to solve real-world problems, and I'm also learning about Cloud Computing.
+- 👯 I’m looking to collaborate on **exciting projects** that combine MERN stack development and machine learning to solve real-world problems.  
+  &nbsp; &nbsp; I'm also **learning about Cloud Computing**.
 
-- 📫 How to reach me: You can contact me at samiullahglotar420@gmail.com to discuss potential collaborations or projects.
+- 📫 **How to reach me:** You can contact me at **samiullahglotar420@gmail.com** to discuss potential collaborations or projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -123,18 +124,5 @@
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sami-143&theme=onestar&row=1&no-bg=true&no-frame=true" alt="Sami-143 trophies" />
-</p>
-
-<!-- GitHub Stats -->
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sami-143&show_icons=true&locale=en&layout=compact&cache_seconds=86400" alt="Top Languages" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sami-143&show_icons=true&locale=en&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
-</p>
-
-<p>
-  ## 🔥 GitHub Streak [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sami-143&theme=dark)](https://git.io/streak-stats)
+  <img src="https://github-profile-trophy.vercel.app/?username=Sami-143&theme=onestar&row=1&no-bg=true&no-frame=true" alt="Sami-143" />
 </p>
