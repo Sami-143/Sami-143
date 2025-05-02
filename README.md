@@ -1,30 +1,29 @@
 <!-- Profile Image at the Top -->
 <p align="center">
-  <img src="profile.png" alt="Sami Ullah" width="1200" height="370"/>
+  <img src="profile.png" alt="Sami Ullah" width="1200" height="370"/> <!-- Reduced height -->
 </p>
 
 <h1 align="center">Hello 👋, I'm Sami Ullah</h1>
-<h3 align="center">Full-Stack Developer | AI Enthusiast | Building Intelligent Digital Solutions</h3>
+<h3 align="center">Crafting Intelligent Web Solutions: MERN Stack Developer</h3>
 
 <!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sami-143&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
-- 🔭 I’m currently working on developing a **MERN stack application integrated with machine learning and deep learning algorithms** for predictive analytics in the IT industry.
+- 🔭 I’m currently working on **developing a MERN stack application integrated with machine learning and deep learning algorithms for predictive analytics in the IT industry.**
 
-- 👯 I’m looking to collaborate on **exciting projects** that combine MERN stack development and machine learning to solve real-world problems.  
-  &nbsp; &nbsp; I'm also **learning about Cloud Computing**.
+- 👯 I’m looking to collaborate on **exciting projects that combine MERN stack development and machine learning to solve real-world problems, and I'm also learning about Cloud Computing.**
 
-- 📫 **How to reach me:** You can contact me at **samiullahglotar420@gmail.com** to discuss potential collaborations or projects.
+- 📫 How to reach me: **You can contact me at samiullahglotar420@gmail.com to discuss potential collaborations or projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/sami-ullah-950a0b2b6/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sami-143" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/u/samimalik_302/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/samimalik_302/" height="30" width="40" />
   </a>
 </p>
 
@@ -107,22 +106,37 @@
 
 <h3 align="left">Technical Skills:</h3>
 <ul>
-  <li><strong>Programming Languages:</strong> Python, C++, C#, JavaScript</li>
-  <li><strong>Web Development:</strong> Node.js with Express.js, Django</li>
-  <li><strong>Libraries and Tools:</strong> Numpy, Pandas, Matplotlib, Jupyter Notebook</li>
-  <li><strong>Database Management:</strong> MongoDB, MySQL, SQL Server, SSIS for ETL operations</li>
-  <li><strong>Data Analysis and Visualization:</strong> Pandas, Power BI</li>
-  <li><strong>Tools and Technologies:</strong> Git, Linux</li>
+  <li>**Programming Languages**: Python, C++, C#, JavaScript</li>
+  <li>**Web Development**: Node.js with Express.js, Django</li>
+  <li>**Libraries and Tools**: Numpy, Pandas, Matplotlib, Jupyter Notebook</li>
+  <li>**Database Management**: MongoDB, MySQL, SQL Server, SSIS for ETL operations</li>
+  <li>**Data Analysis and Visualization**: Pandas, Power BI</li>
+  <li>**Tools and Technologies**: Git, Linux</li>
 </ul>
 
+<!-- Key Projects Section -->
 <h3 align="left">Key Projects:</h3>
 <ul>
-  <li><strong>DOS Shell with Text Editor:</strong> Developed in C++, showcasing proficiency in Data Structures (Trees and Linked Lists).</li>
-  <li><strong>Mini Excel Application:</strong> A console-based project showcasing data manipulation and algorithm design with extensive Data Structures.</li>
-  <li><strong>E-commerce Website:</strong> Developed a fully functional e-commerce platform using the MERN stack. Designed secure user authentication, integrated payment gateway, and optimized performance. Includes an admin panel for product and order management.</li>
+  <li>**DOS Shell with Text Editor**: Developed in C++, showcasing proficiency in Data Structures (Trees and Linked Lists).</li>
+  <li>**Mini Excel Application**: A console-based project showcasing data manipulation and algorithm design with extensive Data Structures.</li>
+  <li>**E-commerce Website**: Developed a fully functional e-commerce platform using the MERN stack (MongoDB, Express.js, React, Node.js). Designed and implemented secure user authentication, integrated a payment gateway, and optimized performance for a seamless shopping experience. The platform also includes a custom-built admin panel for product and order management.</li>
 </ul>
 
+<!-- GitHub Trophies Section -->
 <h3 align="left">🏆 GitHub Trophies:</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sami-143&theme=onestar&row=1&no-bg=true&no-frame=true" alt="Sami-143" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sami-143&theme=onestar&row=1&no-bg=true&no-frame=true" alt="Sami-143 trophies" />
+</p>
+
+<!-- GitHub Stats Section (with cache_seconds to force update) -->
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sami-143&show_icons=true&locale=en&layout=compact&cache_seconds=86400" alt="Sami-143 top languages" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sami-143&show_icons=true&locale=en&include_all_commits=true&cache_seconds=86400" alt="Sami-143 GitHub stats" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sami-143&cache_seconds=86400" alt="Sami-143 streak stats" />
 </p>
