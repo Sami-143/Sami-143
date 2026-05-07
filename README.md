@@ -175,13 +175,13 @@ A console-based spreadsheet engine featuring:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sami-143&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=false" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sami-143&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=false&cache_seconds=1800" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sami-143&layout=compact&theme=tokyonight&border_radius=12&hide_border=false&langs_count=8" height="170" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sami-143&layout=compact&theme=tokyonight&border_radius=12&hide_border=false&langs_count=8&cache_seconds=1800" height="180" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sami-143&theme=tokyonight&border_radius=12&hide_border=false" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Sami-143&theme=tokyonight&border_radius=12&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
 </div>
 
